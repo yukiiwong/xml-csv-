@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+	<flow from="422925228.2" id="0" number="1188" to="-166261566#6"/>
+	<flow from="422925228.2" id="1" number="678" to="61862589#1.192"/>
+	<flow from="166261566#6.186" id="2" number="336" to="61862589#1.192"/>
+	<flow from="166261566#6.186" id="3" number="582" to="779252392.8"/>
+	<flow from="-61862589#1.59" id="4" number="174" to="-166261566#6"/>
+	<flow from="-61862589#1.59" id="5" number="312" to="779252392.8"/>
+	<flow from="-166261566#8" id="6" number="1098" to="-166261566#4"/>
+	<flow from="-166261566#8" id="7" number="162" to="gneE2301"/>
+	<flow from="166261566#4" id="8" number="1014" to="166261566#8"/>
+	<flow from="166261566#4" id="9" number="114" to="gneE2301"/>
+	<flow from="gneE2201" id="10" number="0" to="166261566#8"/>
+	<flow from="-166261566#6" id="11" number="648" to="-166261566#4"/>
+	<flow from="-166261566#6" id="12" number="438" to="-61862487#0"/>
+	<flow from="166261566#4" id="13" number="594" to="166261566#6.186"/>
+	<flow from="166261566#4" id="14" number="552" to="-61862487#0"/>
+	<flow from="61862487#0" id="15" number="576" to="-166261566#4"/>
+	<flow from="61862487#0" id="16" number="348" to="166261566#6.186"/>
+	<flow from="-166261566#4" id="17" number="534" to="-166261566#1"/>
+	<flow from="-166261566#4" id="18" number="234" to="-422921344#4"/>
+	<flow from="166261566#1" id="19" number="438" to="166261566#4"/>
+	<flow from="166261566#1" id="20" number="114" to="-422921344#4"/>
+	<flow from="422921344#4" id="21" number="306" to="166261566#4"/>
+	<flow from="422921344#4" id="22" number="186" to="-166261566#1"/>
+</routes>
